@@ -1,0 +1,122 @@
+[
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-24T01:00:00+00:00",
+    "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work."
+  },
+  {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "source": "The Verge AI",
+    "published": "2026-07-23T21:15:06+00:00",
+    "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
+    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T20:33:02+00:00",
+    "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T19:00:00+00:00",
+    "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
+  },
+  {
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "source": "The Verge AI",
+    "published": "2026-07-23T19:00:00+00:00",
+    "description": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
+    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]"
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T18:38:34+00:00",
+    "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
+  },
+  {
+    "title": "Patreon is laying off 20 percent of workers",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "source": "The Verge AI",
+    "published": "2026-07-23T18:20:30+00:00",
+    "description": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+    "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]"
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T17:07:35+00:00",
+    "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+  },
+  {
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T17:00:00+00:00",
+    "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+  },
+  {
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "source": "The Verge AI",
+    "published": "2026-07-23T17:00:00+00:00",
+    "description": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
+    "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]"
+  },
+  {
+    "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+    "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-23T16:58:28+00:00",
+    "description": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;",
+    "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#8230;"
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T16:28:50+00:00",
+    "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+  },
+  {
+    "title": "Nvidia is sending GPUs to the moon",
+    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T15:00:00+00:00",
+    "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+  },
+  {
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T15:00:00+00:00",
+    "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+  },
+  {
+    "title": "Google’s Gemini nears billion-user milestone",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-23T14:52:44+00:00",
+    "description": "Gemini had over 750 million monthly users in February.",
+    "summary": "Gemini had over 750 million monthly users in February."
+  }
+]

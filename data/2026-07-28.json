@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Hugging Face is being used to easily undress women and children",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "source": "The Verge AI",
+    "published": "2026-07-28T09:07:14+00:00",
+    "description": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+    "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]"
+  },
+  {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-28T04:30:00+00:00",
+    "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+  },
+  {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-28T00:13:33+00:00",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T21:17:11+00:00",
+    "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says."
+  },
+  {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T20:19:42+00:00",
+    "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+  },
+  {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T18:32:11+00:00",
+    "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-27T18:00:00+00:00",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;"
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T17:28:42+00:00",
+    "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "source": "The Verge AI",
+    "published": "2026-07-27T16:51:50+00:00",
+    "description": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
+    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]"
+  },
+  {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T16:45:24+00:00",
+    "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
+  },
+  {
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T15:57:12+00:00",
+    "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T15:30:00+00:00",
+    "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy."
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T15:25:37+00:00",
+    "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "source": "TechCrunch AI",
+    "published": "2026-07-27T15:01:50+00:00",
+    "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
+  },
+  {
+    "title": "How lasers could help provide fuel for nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-27T14:24:42+00:00",
+    "description": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;",
+    "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser&#8230;"
+  }
+]
